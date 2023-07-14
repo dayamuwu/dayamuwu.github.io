@@ -3,7 +3,7 @@
 }
 
 #board, .boardInfo {
-    max-width: 500px;
+    max-width: 600px;
 }
 
 #board {
@@ -45,7 +45,7 @@
 
 .snakeSquare {
     background-color: yellow;
-    border: 1px solid gray;
+    border: 1px solid yellowgreen;
 }
 
 .foodSquare{
